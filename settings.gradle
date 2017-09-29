@@ -1,0 +1,2 @@
+include 'myApp', 'myPlugin1', 'myPlugin2'
+project(':myApp').name = 'myApp'
